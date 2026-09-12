@@ -16,7 +16,6 @@ public class ExamHallSeatDuplicationChecker {
                 }
             }
         }
-
         if (!duplicateFound) {
             System.out.println("No duplicate seat numbers found.");
         }
